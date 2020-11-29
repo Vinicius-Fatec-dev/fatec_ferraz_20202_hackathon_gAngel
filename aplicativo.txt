@@ -1,0 +1,13 @@
+Título da aplicação: G.ANGEL
+
+BREVE DESCRIÇÃO: G.Angel é um aplicativo de segurança que busca prevenir mulheres de violências.
+
+DESCRIÇÃO COMPLETA: Nos tempos atuais, é muito nítido a frequência com que as mulheres sofrem de ataques verbais aonde muitos deles são realizados dentro de seus próprios lares, aonde a chance de reportar algo se torna bem menor em relação a um ataque em público.
+Pensando nisso, G.Angel foi criado para proteger as mulheres aonde é possível reportar para terceiros em tempo real quando a vítima está sendo atacada. Assim, o aplicativo aciona o anjo enviando a localização, data, hora para que a polícia, corpo de bombeiro ou SAMU possam ir até o local e fazer uma averiguação e tomar as devidas previdências.
+O aplicativo pode ser usado não somente quando a pessoa estiver sofrendo ataques domésticos, mais sim quando ela se sentir constrangida em meio a um encontro, usando aplicativos de transporte particular entre outras ocasiões.
+
+LINK DO VÍDEO: https://www.youtube.com/watch?v=_BCkH4c4TUU&feature=youtu.be
+
+LINK GITHUB com APP: 
+
+GOOGLE SITE OU E-MAIL da equipe:
